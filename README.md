@@ -1,11 +1,11 @@
 # Personal-profile
 
 ## 👋 Hi, I'm Lesly
---- 
+
 ### 💻 Software Developer
 I'm passionate about software development, web applications,
 databases and creating solutions that automate real-world processes.
----
+
 
 ## ⭐ About Me
 - 💻 Software Developer
